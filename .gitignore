@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+# .env ("jis file ko push nahi krna hai uske liye")
 
 # testing
 /coverage
